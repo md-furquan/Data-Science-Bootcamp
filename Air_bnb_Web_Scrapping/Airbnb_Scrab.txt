@@ -1,0 +1,438 @@
+No ,Title ,Ratings ,Total_reviews ,Rents ,Location ,Description
+
+1 ,Tablas Point Beach Resort King Room ,5.0 · ,7 reviews ,$40 ,Santa Fe, MIMAROPA, Philippines ,None 
+
+2 ,The Rock Samui (Bungalow 1) , ,2 reviews ,$53 ,Koh Samui, Surat Thani, Thailand ,None 
+
+3 ,PASSAMBHATI VILLA /Cape Shark Villas, 4-10 pers. ,4.96 · ,28 reviews ,$660 ,Ko Tao, Surat Thani, Thailand ,None 
+
+4 ,Backpackers Island El Nido Beach Camping Hut No.10 , ,1 review ,$43 ,El Nido, MIMAROPA, Philippines ,None 
+
+5 ,Rare Villa right on the beach!! ,4.99 · ,151 reviews ,$77 ,koh phangan, surrathani, Thailand ,None 
+
+6 ,Luxury Oceanfront Suite with terrace , ,1 review ,$171 ,Weligama, Southern Province, Sri Lanka ,None 
+
+7 ,TROPICAL POOL BEACH VILLA III | Beach-Pool-Freedom ,5.0 · ,9 reviews ,$85 ,Lamai Beach, Surat Thani, Thailand ,None 
+
+8 ,VILLA RAPHA seaview, private pool, walk to beach ,4.97 · ,63 reviews ,$255  ,Choeng Mon, Koh Samui, Thailand ,None 
+
+9 ,Perch Villa - Clifftop villa spectacular sea view ,4.96 · ,51 reviews ,$120 ,Koh Lanta Yai, Krabi, Thailand ,None 
+
+10 ,Villa The Spot - Room A4 ,4.86 · ,7 reviews ,$95 ,Ko Samui District, Surat Thani, Thailand ,None 
+
+11 ,Pool Villa by Humble ,4.90 · ,49 reviews ,$51 ,Ko Samui, Surat Thani, Thailand ,None 
+
+12 ,Moon Isle Beach Bungalow, Nilaveli Rm no:1 ,4.86 · ,58 reviews ,$100  ,Trincomalee, Eastern Province, Sri Lanka ,None 
+
+13 ,beachfront, sunsets, coconuts, and memories. ,4.88 · ,56 reviews ,$145 ,San Vicente, Philippines ,None 
+
+14 ,Next-Level Glamping Retreat Super sea view+food ,4.90 · ,83 reviews ,$134 ,ตำบล ราไวย์, ภูเก็ต, Thailand ,None 
+
+15 ,NEW LUXURY POOL VILLA 5* SERVICE AMAZING VACATION. ,5.0 · ,6 reviews ,$227 ,Koh samui , Surat Thani, Thailand ,None 
+
+16 ,Sam-kah Villa Jade 2-Bedroom, private pool, garden , ,1 review ,$265 ,Koh Samui Island, Surat Thani, Thailand ,None 
+
+17 ,2BR Angsana Sky-pool (Seaview) ,5.0 · ,9 reviews ,$250 ,tt. Lăng Cô, Thừa Thiên Huế, Vietnam ,None 
+
+18 ,Ban Tawan—Luxury Traditional Villa With Panoramic Views ,5.0 · ,8 reviews ,$267 ,Ko Samui, Chang Wat Surat Thani, Thailand ,None 
+
+19 ,Luxury Ocean - Tamarina Samui ,5.0 · ,3 reviews ,$80 ,Koh Samui, Surat thani, Thailand ,None 
+
+20 ,Luxury Oceanfront private Suite ,4.90 · ,10 reviews ,$158 ,Weligama, Southern Province, Sri Lanka ,None 
+
+21 ,⩀Kael⩀ 4 bedroom 2-Story Luxury Private Pool Villa ,4.88 · ,8 reviews ,$254 ,ตำบล ราไวย์, ภูเก็ต, Thailand ,None 
+
+22 ,3 Br Pool Villa with the best sea views in Sairee ,4.82 · ,11 reviews ,$240 ,Ko Tao, Surat Thani, Thailand ,None 
+
+23 ,Awesome Panoramic Sea Views 250m to Idyllic Beach ,5.0 · ,5 reviews ,$401 ,Koh Samui, Surat Thani, Thailand ,None 
+
+24 ,Modern 3-Bedroom Villa with Private Pool and BBQ ,5.0 · ,18 reviews ,$347 ,Tambon Choeng Thale, Chang Wat Phuket, Thailand ,None 
+
+25 ,50%off♥Villa Laurels 3G♥♥Walk to Beach♥Sunset♥ , ,1 review ,$481 ,Ko Samui District, Surat Thani, Thailand ,None 
+
+26 ,70%off ROISSY Samui 180⁰Panoramic Seaview 5 stars ,5.0 · ,3 reviews ,$454 ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,None 
+
+27 ,Seven Swifts - 3 Beds, Sleeps 6 Bangrak Ocean View ,5.0 · ,6 reviews ,$360 ,Bo Put, Surat Thani, Thailand ,None 
+
+28 ,Villa Jasmine,Chef, 4 Bed Sea View Infinity Pool. ,4.94 · ,31 reviews ,$349 ,Phuket, , Kata beach Phuket, Thailand, Thailand ,None 
+
+29 ,Stunning Beachfront Home Hiru Sandu Villa ,4.94 · ,50 reviews ,$317 ,Tangalla, Southern Province, Sri Lanka ,None 
+
+30 ,The Secret Beach Villa - Koh Phangan Beachfront , ,1 review ,$801 ,Tambon Ko Pha-ngan, Chang Wat Surat Thani, Thailand ,None 
+
+31 ,Villa Thansamaay , ,1 review ,$918 ,Suratthani, Koh Samui, Thailand ,None 
+
+32 ,Samudra Beach Front Luxury Private Pool Villa ,5.0 · ,12 reviews ,$480 ,Habaraduwa, Southern Province, Sri Lanka ,None 
+
+33 ,Villa Chi Samui , ,1 review ,$1,195 ,Mae Nam, Koh Samui, Thailand ,None 
+
+34 ,Villa Waterlily - Miskawaan ,5.0 · ,4 reviews ,$1,200 ,Koh Samui, Surat Thani, Thailand ,None 
+
+35 ,Malaiwana Penthouse , ,1 review ,$1,100 ,Naithon Beach, Phuket, Thailand ,None 
+
+36 ,Villa Akatsuki ,None ,Koh Samui, Thailand ,$1,436 ,Koh Samui, Thailand ,None 
+
+37 ,Beachfront Paradise - Villa SeaNest on Koh Samui ,5.0 · ,41 reviews ,$449 ,Ko Samui, Surathani Province, Thailand ,None 
+
+38 ,Villa Anavaya , ,1 review ,$1,655 ,T. Bophut A., koh samui, Thailand ,None 
+
+39 ,Kirana Villa , ,2 reviews ,$1,750 ,Ko Samui, Surat Thani, Thailand ,None 
+
+40 ,Villa Lotus - Miskawaan ,5.0 · ,4 reviews ,$1,360 ,Koh Samui, Chang Wat Surat Thani, Thailand ,None 
+
+41 ,Mia Beach ,None ,Chawang, Surat Thani, Thailand ,$2,200 ,Chawang, Surat Thani, Thailand ,None 
+
+42 ,Samujana One , ,1 review ,$2,050 ,Koh Samui, Suratthani, Thailand ,None 
+
+43 ,Baan Wanora ,5.0 · ,4 reviews ,$2,079 ,Koh Samui, Suratthani, Thailand ,None 
+
+44 ,Laemsingh Villa 3 ,5.0 · ,3 reviews ,$2,500 ,Surin, Phuket, Thailand ,None 
+
+45 ,Villa Daran - Luxury & mins to Kamala Beach ,5.0 · ,3 reviews ,$2,500 ,Tambon Kammala, Chang Wat Phuket, Thailand ,None 
+
+46 ,SUN SIYAM VILU REEF AQUA SUITE FULL BOARD , ,1 review ,$1,000 ,South Nilandhe Atoll, Maldives ,None 
+
+47 ,It's a BASE two-bedroom apartment ,None ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,$56 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+48 ,A Lapaya Grand Villa, 3 Roomed, 2 Bed AT85 ,None ,Saladan, Krabi, Thailand ,$37 ,Saladan, Krabi, Thailand ,None 
+
+49 ,Comfy Bungalow at Bambie Boutique Home & Resort ,None ,Tambon Sala Dan, Chang Wat Krabi, Thailand ,$60 ,Tambon Sala Dan, Chang Wat Krabi, Thailand ,None 
+
+50 ,Love Birds Beach Hotel 01 ,None ,Matara, Sri Lanka ,$40 ,Matara, Sri Lanka ,None 
+
+51 ,Cha-ba Lanta Resort and Bungalows ,None ,Amphoe Ko Lanta, Chang Wat Krabi, Thailand ,$67 ,Amphoe Ko Lanta, Chang Wat Krabi, Thailand ,None 
+
+52 ,PIUGUS RESORT (STANDARD-05) ,None ,Matak, Riau Islands, Indonesia ,$87 ,Matak, Riau Islands, Indonesia ,None 
+
+53 ,A beach Hotel with a view! Make your memories here ,None ,Goidhoo, North Province, Maldives ,$91 ,Goidhoo, North Province, Maldives ,None 
+
+54 ,Right On The Beach Private Pool Villa , ,2 reviews ,$500 ,Tambon Mae Nam, Chang Wat Surat Thani, Thailand ,None 
+
+55 ,Multi-Level Luxury Villa Overlooking Patong Bay ,4.86 · ,22 reviews ,$960 ,Patong, Phuket, Thailand ,None 
+
+56 ,Villa Talaefun Oceanfront 360'View Fully services ,5.0 · ,19 reviews ,$3,300 ,Tambon Kammala, Chang Wat Phuket, Thailand ,None 
+
+57 ,Kya Beach Samui's Premier Private Beachfront Oasis ,4.89 · ,20 reviews ,$660 ,Ko Samui, Thailand ,None 
+
+58 ,La Lagune ,4.86 · ,7 reviews ,$700 ,Taling Ngam, Surat thani, Thailand ,None 
+
+59 ,Walatta House ,4.90 · ,10 reviews ,$440 ,Tangalle, Sri Lanka ,None 
+
+60 ,L'ARCHIPEL SEAVIEW VILLA ,5.0 · ,8 reviews ,$1,068 ,Thalang, ภูเก็ต, Thailand ,None 
+
+61 ,Nagisa Koh Samui's Premium Oceanfront Residence ,4.93 · ,14 reviews ,$1,500 ,Koh Samui, Surat Thani, Thailand ,None 
+
+62 ,Luxury beachfront villa with butler and staff ,4.83 · ,29 reviews ,$1,200 ,Ko Samui, Chang Wat Surat Thani, Thailand ,None 
+
+63 ,Whitewall Pool Villa next to Bang Po Samui Beach ,None ,ตำบล แม่น้ำ, Chang Wat Surat Thani, Thailand ,$345 ,ตำบล แม่น้ำ, Chang Wat Surat Thani, Thailand ,None 
+
+64 ,Villa Bougainvillea - Miskawaan , ,1 review ,$1,400 ,Koh Samui, Surat Thani, Thailand ,None 
+
+65 ,Villa Wayu , ,1 review ,$1,680 ,Koh Samui, Surat Thani, Thailand ,None 
+
+66 ,Luxury 6 bedroom Pool Villa with sea view and , ,1 review ,$1,202 ,Kamala, Phuket, Thailand ,None 
+
+67 ,Villa Chan Grajang , ,1 review ,$5,500 ,Cherngtalay, Thalang, Thailand ,None 
+
+68 ,ROYAL ISLAND BEACH VILLA ,None ,Horubadhoo, North Province, Maldives ,$481 ,Horubadhoo, North Province, Maldives ,None 
+
+69 ,Villa U - 1 Bed, Sleeps 2 Romantic Beach Sunsets ,None ,T.Lipa Noi, สุราษฎร์ธานี, Thailand ,$690 ,T.Lipa Noi, สุราษฎร์ธานี, Thailand ,None 
+
+70 ,Sunny Moon Villa ,None ,Chaweng Noi, Surat Thani, Thailand ,$855 ,Chaweng Noi, Surat Thani, Thailand ,None 
+
+71 ,Beachfront Tawantok Beach Villa 1 4BR - SHA Extra+ ,None ,Lipa Noi, , Thailand ,$808 ,Lipa Noi, , Thailand ,None 
+
+72 ,Baan Saleah ,None ,Kata, Phuket, Thailand ,$950 ,Kata, Phuket, Thailand ,None 
+
+73 ,40% OFF Owner Direct: Baan Hinyai Luxury Villa ,None ,Ko Samui, Surat Thani, Thailand ,$932 ,Ko Samui, Surat Thani, Thailand ,None 
+
+74 ,Samujana Eight ,None ,Koh Samui, Suratthani, Thailand ,None ,Koh Samui, Suratthani, Thailand ,None 
+
+75 ,Samujana Seven ,None ,Koh Samui, Suratthani, Thailand ,$1,134 ,Koh Samui, Suratthani, Thailand ,None 
+
+76 ,Villa Red ,None ,Koh Samui, Suratthani, Thailand ,$1,390 ,Koh Samui, Suratthani, Thailand ,None 
+
+77 ,Andara Phuket Villa 12 ,None ,Tambon Kamala, Amphoe Kathu, Chang Wat Phuket , Thailand ,$1,192 ,Tambon Kamala, Amphoe Kathu, Chang Wat Phuket , Thailand ,None 
+
+78 ,Samujana Six ,None ,Ko Samui, Surat Thani, Thailand ,$1,422 ,Ko Samui, Surat Thani, Thailand ,None 
+
+79 ,Baan Taley Rom, 4BR, Natai Beach w/ chef ,None ,Natai Beach, , Thailand ,$1,137 ,Natai Beach, , Thailand ,None 
+
+80 ,Bluesiam Villa-4 Beds,closest to Surin beach (SHA) ,None ,Phuket, *, Thailand ,$1,068 ,Phuket, *, Thailand ,None 
+
+81 ,Villa w/ view of the Gulf's nearby smaller islands ,None ,Ko Samui, Chang Wat Surat Thani, Thailand ,$2,227  ,Ko Samui, Chang Wat Surat Thani, Thailand ,None 
+
+82 ,Villa 52 (3-Bedroom Pool Villa) ,None ,Thalang, Phuket, Thailand ,$1,336 ,Thalang, Phuket, Thailand ,None 
+
+83 ,Beachfront Tawantok Beach Villa 2 4BR - SHA Extra+ ,None ,Lipa Noi, , Thailand ,$808 ,Lipa Noi, , Thailand ,None 
+
+84 ,Samujana Seventeen ,None ,Koh Samui, Suratthani, Thailand ,$1,155 ,Koh Samui, Suratthani, Thailand ,None 
+
+85 ,Samujana Twenty-Seven ,None ,Koh Samui, Suratthani, Thailand ,$1,611 ,Koh Samui, Suratthani, Thailand ,None 
+
+86 ,Villa Sila ,None ,Koh Samui, Surat Thani, Thailand ,$1,680 ,Koh Samui, Surat Thani, Thailand ,None 
+
+87 ,Samujana Twenty-Six ,None ,Koh Samui, Suratthani, Thailand ,None ,Koh Samui, Suratthani, Thailand ,None 
+
+88 ,Miskawaan Villa Waterlily ,None ,Tambon Mae Nam, Chang Wat Surat Thani, Thailand ,None ,Tambon Mae Nam, Chang Wat Surat Thani, Thailand ,None 
+
+89 ,Samujana Twenty-One ,None ,Koh Samui, Suratthani, Thailand ,$2,178 ,Koh Samui, Suratthani, Thailand ,None 
+
+90 ,Seaview Malaiwana - Penthouse (C1), 4BR, Naithon Beach w/ chef ,None ,Naithon Beach, , Thailand ,$1,250 ,Naithon Beach, , Thailand ,None 
+
+91 ,Andara Phuket Villa 17 ,None ,Chang Wat, Phuket, Thailand ,$1,701 ,Chang Wat, Phuket, Thailand ,None 
+
+92 ,Villa Analaya ,None ,Kathu District, Phuket, Thailand ,$2,005 ,Kathu District, Phuket, Thailand ,None 
+
+93 ,Villa 61 (4-Bedroom Pool Villa) ,None ,Thalang, Phuket, Thailand ,$2,086 ,Thalang, Phuket, Thailand ,None 
+
+94 ,⭐Star View Villa 4BR w/ Infinity Pool Near Beach ,None ,Tambon Kamala, Chang Wat Phuket, Thailand ,$1,836 ,Tambon Kamala, Chang Wat Phuket, Thailand ,None 
+
+95 ,Villa Chan Grajang, 6BR Luxury Villa, Surin Beach ,None ,Cherngtalay, Chang Wat Phuket, Thailand ,$2,589 ,Cherngtalay, Chang Wat Phuket, Thailand ,None 
+
+96 ,Bluesiam Villa–9 Beds,closest to Surin beach (SHA) ,None ,Phuket, *, Thailand ,$3,329 ,Phuket, *, Thailand ,None 
+
+97 ,Villa Arteed ,None ,Tambon Thep Krasatti, Chang Wat Phuket, Thailand ,$6,500 ,Tambon Thep Krasatti, Chang Wat Phuket, Thailand ,None 
+
+98 ,Private Island in the Sulu Sea:Exclusively Yours ,None ,El Nido, MIMAROPA, Philippines ,$685 ,El Nido, MIMAROPA, Philippines ,None 
+
+99 ,FAIRMONT MALDIVES GRAND WATER SUNSET VILLA ,None ,Shaviyani Atoll, Maldives ,$1,000 ,Shaviyani Atoll, Maldives ,None 
+
+100 ,Seaview ECO LOFT 💚 bamboo bungalow ,5.0 · ,89 reviews ,$63  ,Tambon Ko Pha-ngan, Chang Wat Surat Thani, Thailand ,None 
+
+101 ,Beautiful studio in Jomtien, stunning view, 100m sea ,4.96 · ,53 reviews ,$25 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+102 ,2 bedrooms Patong Tower Patong Beach ,4.97 · ,103 reviews ,$67 ,Tambon Patong, PU, Thailand ,None 
+
+103 ,Samujana Three ,None ,Koh Samui, Suratthani, Thailand ,$1,159 ,Koh Samui, Suratthani, Thailand ,None 
+
+104 ,Beachfront Villa Chi Samui, 5BR - SHA Extra Plus ,None ,Mae Nam, , Thailand ,$1,195 ,Mae Nam, , Thailand ,None 
+
+105 ,Samujana Thirty ,None ,Koh Samui, Suratthani, Thailand ,$1,907 ,Koh Samui, Suratthani, Thailand ,None 
+
+106 ,Samujana Twenty-Two ,None ,Koh Samui, Suratthani, Thailand ,$2,178 ,Koh Samui, Suratthani, Thailand ,None 
+
+107 ,Maya Anda Villa-11 Beds Sea View (SHA Certified) ,None ,Tambon Choeng Thale, Chang Wat Phuket, Thailand ,$4,714 ,Tambon Choeng Thale, Chang Wat Phuket, Thailand ,None 
+
+108 ,✰ Life's a Beach ✰ ,5.0 · ,10 reviews ,$77 ,Tambon Ban Tai, Chang Wat Surat Thani, Thailand ,None 
+
+109 ,Cozy Seaview Studio@Imperium residence Tg Lumpur ,4.99 · ,125 reviews ,$43 ,Kuantan, Pahang, Malaysia ,None 
+
+110 ,Heaven Sea apt on 40th floor with wonderful view ,4.94 · ,34 reviews ,None ,Ngũ Hành Sơn, Đà Nẵng, Vietnam ,None 
+
+111 ,OZONE CONDOTEL COUNTY BEACH (STUDIO) ,5.0 · ,7 reviews ,$22 ,Phuket, Thailand ,None 
+
+112 ,Coconut Cottage Samui ,4.90 · ,10 reviews ,$73 ,Koh Samui, Surat Thani, Thailand ,None 
+
+113 ,ITSARA bungalows- Max bungalow ,5.0 · ,34 reviews ,$53 ,ตำบล เกาะพะงัน, สุราษฎร์ธานี, Thailand ,None 
+
+114 ,❤️THE LOFT, Romantic Beachfront Home, HIN KONG. ,4.97 · ,30 reviews ,$107 ,ตำบล บ้านใต้, สุราษฎร์ธานี, Thailand ,None 
+
+115 ,Deluxe Seaview*Ocean-facin bed uni exp- 5km2Center ,4.97 · ,30 reviews ,$26 ,Nha Trang, Vietnam ,None 
+
+116 ,SH21❤️ Studio Apartments 150m to the beach - ✅ ,4.94 · ,89 reviews ,$20 ,Ngũ Hành Sơn, Đà Nẵng, Vietnam ,None 
+
+117 ,STUNNING SEA VIEW BEAUTIFUL HOME ,4.91 · ,43 reviews ,$13 ,Ko Pha Ngan, Surat Thani, Thailand ,None 
+
+118 ,Archie Village Incredible Sea View House 4 ,5.0 · ,26 reviews ,$33 ,Tambon Ko Pha-ngan, Chang Wat Surat Thani, Thailand ,None 
+
+119 ,*K2 CENTRAL PATTAYA OCEAN VIEW COZY CONDO ** ,5.0 · ,9 reviews ,$32 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+120 ,Grand Avenue Residences, 51 sq mt, Pool Access ,4.96 · ,23 reviews ,$26 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+121 ,SOVEREIGN- SEA VIEW APARTMENT ,5.0 · ,11 reviews ,$80  ,อำเภอเกาะพะงัน, สุราษฎร์ธานี, Thailand ,None 
+
+122 ,1BR 35sq Bay View From Bed 28FL Central Location ,4.92 · ,61 reviews ,$32 ,Muang Pattaya, Chonburi, Thailand ,None 
+
+123 ,Private family villa w/ garden & amazing sea views ,None ,Ko Samui, Chang Wat Surat Thani, Thailand ,$2,366 ,Ko Samui, Chang Wat Surat Thani, Thailand ,None 
+
+124 ,Clifftop Villa Chada, 5BR, Kamala w/ chef ,None ,Kamala, , Thailand ,$1,550 ,Kamala, , Thailand ,None 
+
+125 ,Blue Horizon Villa ,5.0 · ,4 reviews ,$134 ,Koh Samui, Surat Thani, Thailand ,None 
+
+126 ,Luxury 3BR Modern Villa with Amazing Seaview ,4.94 · ,17 reviews ,$123  ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,None 
+
+127 ,Amazing! Great views, good internet, 10m to beach ,4.92 · ,61 reviews ,$27 ,Ko Samui, Chang Wat Surat Thani, Thailand ,None 
+
+128 ,Sunny, breezy with a scenic view ,4.97 · ,140 reviews ,$38 ,Mumbai, Maharashtra, India ,None 
+
+129 ,Alexandr J Bophut ,4.89 · ,10 reviews ,$48 ,Koh Samui, Surat Thani, Thailand ,None 
+
+130 ,Luxury Condo perfect for Romantic Weekend Gateway ,4.93 · ,27 reviews ,$56  ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+131 ,✦ATTIC✦ Seaview Classic Couple's Studio [TV BOX] ,4.92 · ,199 reviews ,$81  ,Melaka, Malaysia ,None 
+
+132 ,ITSARA - Papa bungalow ,4.90 · ,21 reviews ,$84 ,Ko Pha Ngan, Surat Thani, Thailand ,None 
+
+133 ,Edge Central Pattaya Stylish Condo with Sea View ,4.92 · ,13 reviews ,$58  ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+134 ,❤️ THE HATCH, Romantic Beachfront, HIN KONG ,4.93 · ,88 reviews ,$134 ,ตำบล เกาะพะงัน, ST, Thailand ,None 
+
+135 ,Luxury Beach Studio-Central Pattaya ,4.91 · ,53 reviews ,$49 ,Bang Lamung, Chon Buri, Thailand ,None 
+
+136 ,Kamala Beach Ciara 3 Bedroom Pool Villa Fantasy Dodge Rear Garden ,4.88 · ,83 reviews ,$89 ,Phuket , Phuket, Thailand ,None 
+
+137 ,2 Bed Condo Samui 200m to beach Horizon Residence ,4.92 · ,13 reviews ,$32 ,Koh Samui, Thailand ,None 
+
+138 ,❤️THE TREEHOUSE, Romantic Beachfront, HIN KONG. ,4.91 · ,79 reviews ,$134 ,Ko Pha Ngan, Surat Thani, Thailand ,None 
+
+139 ,Ashvem beach, Goa. ,4.85 · ,135 reviews ,$49 ,Goa, India ,None 
+
+140 ,Comfortable Stanley Apartment with view ,5.0 · ,5 reviews ,$62 ,Hong Kong, Hong Kong Island, Hong Kong ,None 
+
+141 ,***Sea view apartment at 100 mt from the beach*** ,4.90 · ,10 reviews ,$83 ,Tambon Patong, Chang Wat Phuket, Thailand ,None 
+
+142 ,Private Beach Villa @ The Scenery Beach Resort ,4.92 · ,25 reviews ,$37 ,Ko Pha Ngan, Surat Thani, Thailand ,None 
+
+143 ,VILLA SEA VIEW PRIVATE INFINITY SWIMMING POOL ,5.0 · ,10 reviews ,$187 ,Tambon Mae Nam, Chang Wat Surat Thani, Thailand ,None 
+
+144 ,Seaview Jungle House at Coconut Beach Bungalows ,4.93 · ,44 reviews ,$110 ,Koh Pha Ngan, Thailand ,None 
+
+145 ,Villa 4 bedrooms sea view private pool at 200 m beach ,5.0 · ,11 reviews ,$160 ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,None 
+
+146 ,Sea Facing Private Room in Versova, Andheri West ,4.87 · ,82 reviews ,$31 ,Mumbai, Maharashtra, India ,None 
+
+147 ,Xavier's Guest House Standard Classic Room ,4.82 · ,255 reviews ,$17 ,Anjuna, Goa, India ,None 
+
+148 ,Beachfront Luxury Villa with Amazing Sunset ,4.88 · ,8 reviews ,$139 ,Ko Samui, ST, Thailand ,None 
+
+149 ,Wood Bungalow, Big Terrance, near Beach ,4.82 · ,34 reviews ,$38  ,Tambon Maret, Chang Wat Surat Thani, Thailand ,None 
+
+150 ,Closest 2 BR to Nai Harn Beach - Chic & Relaxing ,4.93 · ,91 reviews ,$107 ,Phuket, Thailand, Phuket, Thailand ,None 
+
+151 ,Tropical 3 Bedroom Villa in Koh Phangan ,4.88 · ,41 reviews ,$134 ,Koh Phangan, สุราษฎร์ธานี, Thailand ,None 
+
+152 ,Center luxury apt, big balcony-seaview highfloor ,4.84 · ,88 reviews ,$32 ,Thành phố Nha Trang, Khánh Hòa, Vietnam ,None 
+
+153 ,ITSARA - Neno bungalow ,4.93 · ,14 reviews ,$32 ,Ko Pha Ngan, Surat Thani, Thailand ,None 
+
+154 ,Penthouse Bang Tao Beach Phuket ,4.90 · ,60 reviews ,$118 ,Bangtao, จ.ภูเก็ต, Thailand ,None 
+
+155 ,Room 5 Double AC room Suffren Street with kitchen ,4.86 · ,43 reviews ,$27 ,Puducherry, India ,None 
+
+156 ,MODERN POOL BEACH VILLA IV | Beach-Pool-Freedom ,4.90 · ,10 reviews ,$107  ,Lamai Beach, Surat Thani, Thailand ,None 
+
+157 ,Calypso Beach Hotel Cadlao Room - DOT Accredited ,4.88 · ,104 reviews ,$119  ,El Nido, MIMAROPA, Philippines ,None 
+
+158 ,Luxury Sunset 3BR Villa w/ BEACH access ,4.90 · ,70 reviews ,$165 ,Thailand ,None 
+
+159 ,2 bedroom Patong Tower Patong Beach ,4.81 · ,233 reviews ,$49  ,Patong, Phuket, Thailand ,None 
+
+160 ,***Central Pattaya one bedroom*** ,4.84 · ,127 reviews ,$27 ,Muang Pattaya, จ.ชลบุรี, Thailand ,None 
+
+161 ,Luxury Beach villa Ko Phangan ,4.81 · ,99 reviews ,$149 ,Chaloklum, Koh Phangan, Ko Pha Ngan, Thailand ,None 
+
+162 ,Cosy apartment in the heart of Lamai for two ,5.0 · ,3 reviews ,$23 ,Tambon Maret, Chang Wat Surat Thani, Thailand ,None 
+
+163 ,Beachfront townhouse with stunning views/pool ,4.87 · ,89 reviews ,$160 ,M6 T . Vichit, A Muang, Phuket, Thailand ,None 
+
+164 ,ITSARA - Ava bungalow ,4.93 · ,15 reviews ,$31 ,Tambon Ko Pha-ngan, Chang Wat Surat Thani, Thailand ,None 
+
+165 ,Cozy Vintage Cave in Bandra ,4.87 · ,95 reviews ,$37 ,Mumbai, Maharashtra, India ,None 
+
+166 ,Villa Sabai - 3 Beds Sea View ,4.81 · ,75 reviews ,$147 ,Ko Samui, Surat Thani, Thailand ,None 
+
+167 ,Charu Bay studio home beach access ,4.80 · ,61 reviews ,$26 ,Tambon Ko Pha-ngan, Chang Wat Surat Thani, Thailand ,None 
+
+168 ,TWIN SEA @04 ,4.82 · ,175 reviews ,$43 ,กมลา, จ.ภูเก็ต, Thailand ,None 
+
+169 ,2BR with 40sqm Terrace and Ocean View *accredited* , ,2 reviews ,$47 ,Malay, Western Visayas, Philippines ,None 
+
+170 ,Awesome Pool Villa for Rent Krabi AoNang ,4.82 · ,188 reviews ,$85 ,Tambon Ao Nang, Chang Wat Krabi, Thailand ,None 
+
+171 ,Villa TSAY - Nature, Privacy, Elegance ,4.93 · ,41 reviews ,$246 ,Surat Thani, Thailand ,None 
+
+172 ,Penang Ocean View Resort (海角六号） ,4.82 · ,262 reviews ,$121 ,George Town, Pulau Pinang, Malaysia ,None 
+
+173 ,Amazing Studio, infinity pool, 100m to beach ,4.81 · ,16 reviews ,$59 ,Tambon Patong, Chang Wat Phuket, Thailand ,None 
+
+174 ,Spacious 3BHK Apartment With Pool Baga, Calangute. ,4.80 · ,71 reviews ,$89 ,Calangute, Goa, India ,None 
+
+175 ,JustInn Single/Double Room (813) Main Ryokan Twin/Single Room for Monthly Rental in the heart of Tsim Sha Tsui , ,2 reviews ,$65  ,Hong Kong, Kowloon, Hong Kong ,None 
+
+176 ,Dream catcher 3 bedroom luxury villa ,4.85 · ,46 reviews ,$377  ,Vagator, Goa, India ,None 
+
+177 ,Most Central Area the base Pattaya's most central Internet-famous apartment base , ,1 review ,$25  ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+178 ,VILLA VENITY Sky ,5.0 · ,4 reviews ,$1,161 ,Thành phố Nha Trang, Khánh Hòa, Vietnam ,None 
+
+179 ,AURA AIR, pool, seaview villa, 500m from beach ,None ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,$174  ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,None 
+
+180 ,Exclusive & Private Island Resort: Floral Island ,4.96 · ,134 reviews ,$613 ,El Nido, MIMAROPA, Philippines ,None 
+
+181 ,Luxury 4BR SUNSET Villa w/ Private BEACH access ,4.83 · ,80 reviews ,$412  ,Tambon Bo Put, Chang Wat Surat Thani, Thailand ,None 
+
+182 ,Amilla Villa Estate ,None ,Baa Atoll, North Province, Maldives ,$12,530 ,Baa Atoll, North Province, Maldives ,None 
+
+183 ,Miskawaan Estate ,None ,Koh Samui, Surat Thani, Thailand ,$21,500 ,Koh Samui, Surat Thani, Thailand ,None 
+
+184 ,The Base Central Pattaya Condo Best Location, IPTV ,5.0 · ,7 reviews ,$35 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+185 ,View Talay 6, Large unit 92 sqm, Seaview, 12th Fl ,5.0 · ,11 reviews ,$88  ,Pattaya, Chonburi, Thailand ,None 
+
+186 ,EDGE Condo With King Bed + Romantic Oceanside View ,5.0 · ,3 reviews ,$58  ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+187 ,Rawai Beach Condo Mountain View ,5.0 · ,4 reviews ,$34 ,ตำบล ราไวย์, ภูเก็ต, Thailand ,None 
+
+188 ,180 Degree-Oceanfront-Condo@ CETUS Jomtien Pattaya ,5.0 · ,29 reviews ,$41  ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+189 ,The BASE,Best location of Central pattaya ,4.91 · ,58 reviews ,$24 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+190 ,OCEAN VIEW NEWEST! ,5.0 · ,9 reviews ,$48 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+191 ,PennyPlace: Manila Bay View - Cozy&Comfy w/Parking ,4.95 · ,21 reviews ,$56 ,Pasay, Metro Manila, Philippines ,None 
+
+192 ,Nice Double Room With Shared Kitchen , ,2 reviews ,$10 ,Ngũ Hành Sơn, Đà Nẵng, Vietnam ,None 
+
+193 ,The Traveller's Escape ,5.0 · ,4 reviews ,$9 ,George Town, Pulau Pinang, Malaysia ,None 
+
+194 ,Atlantis Condo Resort , ,1 review ,$14 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+195 ,Digital Nomads Phangan: Confortable & nice house , ,2 reviews ,$19 ,Tambon Ban Tai, Chang Wat Surat Thani, Thailand ,None 
+
+196 ,H-SUITES ✯ Balcony Apartment with Rooftop Pool , ,2 reviews ,$21 ,Ngũ Hành Sơn, Đà Nẵng, Vietnam ,None 
+
+197 ,The Sweet Cottage 4-Koh Phangan , ,1 review ,$21 ,Tambon Ban Tai, Chang Wat Surat Thani, Thailand ,None 
+
+198 ,Cosy double-bed apartment in the Lamai center , ,1 review ,$27 ,Tambon Maret, Chang Wat Surat Thani, Thailand ,None 
+
+199 ,Zara's cozy nest Entire rental unit , ,1 review ,$26 ,Dehiwala-Mount Lavinia, Western Province, Sri Lanka ,None 
+
+200 ,seaview apartment walk 4min to beach ,5.0 · ,5 reviews ,$38 ,Tambon Kathu, Chang Wat Phuket, Thailand ,None 
+
+201 ,Lovely 2 Bed, Fiber optic wifi, Mountain view , ,1 review ,$75  ,Tambon Kamala, Chang Wat Phuket, Thailand ,None 
+
+202 ,2 bed sea view condo with infinity roof top pool ,None ,Tambon Choeng Thale, Chang Wat Phuket, Thailand ,$64 ,Tambon Choeng Thale, Chang Wat Phuket, Thailand ,None 
+
+203 ,3BR MVISTA #AIRPORT VIEW ,5.0 · ,5 reviews ,$155  ,Batu Maung, Pulau Pinang, Malaysia ,None 
+
+204 ,Superior Twin Bed, Private Bathroom 2 Min to MTR ,5.0 · ,5 reviews ,$89 ,Hong Kong, Kowloon, Hong Kong ,None 
+
+205 ,D9 Luxury Seaview Sunrise Karaoke, Gurney 无敌大海景 ,5.0 · ,41 reviews ,$128 ,Tanjung Tokong, Penang, Malaysia ,None 
+
+206 ,Large luxury 1 Bed - Pattaya City - Grand Avenue ,5.0 · ,3 reviews ,$39 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+207 ,Cosy Studio in Central Hong Kong , ,1 review ,$88 ,Hong Kong, Hong Kong Island, Hong Kong ,None 
+
+208 ,Stylish one bedroom flat & rooftop - Sai Ying Pun ,5.0 · ,3 reviews ,$96 ,Hong Kong, Hong Kong Island, Hong Kong ,None 
+
+209 ,Super Cozy apartment with Power backup, Palolem ,5.0 · ,16 reviews ,$22 ,Canacona, Goa, India ,None 
+
+210 ,Cozy home with beautiful patio, 1min to MTR , ,2 reviews ,$110 ,Hong Kong, Hong Kong Island, Hong Kong ,None 
+
+211 ,Villa Baan Nai Pa 🏝️🏝️ New Pool Villa ,5.0 · ,5 reviews ,$118 ,Baan nai suan, สุราษฎร์ธานี, Thailand ,None 
+
+212 ,A room with a view in city center ! ,5.0 · ,50 reviews ,$35 ,Mumbai, Maharashtra, India ,None 
+
+213 ,Gold Coast Sepang KL Studio ,5.0 · ,8 reviews ,$82 ,KLIA, Kuala Lumpur, Malaysia ,None 
+
+214 ,✴Modern luxury in Bandra - Room 1 *Balcony* WFH* ,4.94 · ,16 reviews ,None ,Mumbai, Maharashtra, India ,None 
+
+215 ,Beach Studio 4A *Best WI-FI* Free Electricity ,4.81 · ,42 reviews ,$28 ,Bang Lamung District, Chon Buri, Thailand ,None 
+
+216 ,Atlantis Melaka Stay City+Sea View | 1 Bedroom ,5.0 · ,28 reviews ,$30 ,Melaka, Malaysia ,None 
+
+217 ,Riviera Pattaya Panoramic seaview 1 bed room ,4.87 · ,15 reviews ,$67 ,Muang Pattaya, Chang Wat Chon Buri, Thailand ,None 
+
+218 ,Flat 601, Rizvi Mahal, Waterfield Road, Bandra W ,5.0 · ,14 reviews ,$42 ,Mumbai, Maharashtra, India ,None 
+
